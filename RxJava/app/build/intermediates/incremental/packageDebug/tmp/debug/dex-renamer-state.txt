@@ -1,0 +1,4 @@
+#Sun May 05 22:00:41 CST 2019
+base.0=E\:\\Kotlin\\RxJava\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
